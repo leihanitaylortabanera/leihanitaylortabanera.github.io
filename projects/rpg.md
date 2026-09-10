@@ -20,5 +20,5 @@ As a solo developer on the project, I worked on designing and implementing core 
 
 This experience strengthened my practical understanding of OOP design, specifically leveraging inheritance, polymorphism, and encapsulation to build a maintainable codebase. I gained hands-on experience in managing complex game loops, debugging edge cases in dynamic state tracking, and writing logic that accommodates future feature expansions.
 
-Source: <a href="[https://github.com/theVacay/vacay](https://github.com/leihanitaylortabanera/ece205-lab14a-RPG-beta-Lei2024)">RPGBeta</a>
+Source: https://github.com/leihanitaylortabanera/ece205-lab14a-RPG-beta-Lei2024
 
