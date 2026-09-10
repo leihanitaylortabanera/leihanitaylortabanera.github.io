@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/ACRE_image.jpg
 title: "ACRE Initial Database Implementation"
-date: 2026
+date: 2026-08-07
 published: true
 labels:
   - Databases
