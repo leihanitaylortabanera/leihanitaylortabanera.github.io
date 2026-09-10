@@ -14,7 +14,7 @@ summary: "ACRE is a team project supporting the U.S. Navy. It is intended to aid
 ---
 
 <div class="text-center p-4">
-  <img width="300px" src="../img/ERD.png" class="img-thumbnail" >
+  <img width="600px" src="../img/ERD.png" class="img-thumbnail" >
 </div>
 
 The Autonomous Cyber Readiness Evaluator, or Project ACRE, is a multi-developer initiative focused on engineering an autonomous, AI-driven platform to fully automate the legacy manual, paperwork-heavy 6 step Risk Management Framework (RMF) process. During this development phase, the system operated as a prototype requiring key feature implementations to meet its Minimum Viable Product (MVP) scope. The main focus was on closing these functional gaps to ensure the software was fully prepared for upcoming Navy pilot testing.
