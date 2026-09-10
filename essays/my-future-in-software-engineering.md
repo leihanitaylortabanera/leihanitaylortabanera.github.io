@@ -10,7 +10,7 @@ labels:
 ---
 
 <div class="text-center p-4">
-  <img width="500px" src="../img/software-engineering-skills.jpg" class="img-thumbnail" >
+  <img width="400px" src="../img/software-engineering-skills.jpg" class="img-thumbnail" >
 </div>
 
 Hello, World (of Software Engineering)!
