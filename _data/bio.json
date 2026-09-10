@@ -19,97 +19,111 @@
     { "name": "Artificial Intelligence" },
     { "name": "Data Analytics" }
   ],
-  "skills": [
+"skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "name": "Programming Languages",
+      "level": "Intermediate",
+      "keywords": [
+        "C/C++",
+        "Python",
+        "MATLAB"
+      ]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "name": "Databases",
+      "level": "Intermediate",
+      "keywords": [
+        "SQL",
+        "PostgreSQL",
+        "MySQL"
+      ]
+    },
+    {
+      "name": "Cloud Platforms & Dev Tools",
+      "level": "Intermediate",
+      "keywords": [
+        "Microsoft Azure",
+        "Docker",
+        "FastAPI",
+        "SQLAlchemy",
+        "Alembic"
+      ]
+    },
+    {
+      "name": "Version Control & Project Management",
+      "level": "Intermediate",
+      "keywords": [
+        "Git",
+        "GitHub",
+        "GitLab",
+        "Jira",
+        "Confluence"
+      ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "courses": [
-      ]
+      "institution": "University of Hawaii at Manoa, College of Engineering",
+      "area": "Computer Engineering",
+      "studyType": "Bachelor of Science",
+      "startDate": "2022-08-01",
+      "endDate": "2026-12-01",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "President William McKinley High School",
+      "area": "High School Diploma",
+      "studyType": "High School Diploma",
+      "startDate": "",
+      "endDate": "2022-05-01",
+      "gpa": "",
+      "courses": []
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Mantech",
+      "position": "Backend Engineer Intern",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2026-06-01",
+      "endDate": "2026-08-01",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Constructed database schema by designing conceptual ERD to guide seamless backend integration.",
+        "Modernized legacy database infrastructure using SQLAlchemy 2.0+ and native Python type hints to reduce foreseen runtime errors and improve team performance.",
+        "Managed database migrations and version control via Alembic to maintain schema integrity, prevent data loss, and ensure continuous deployment readiness.",
+        "Improved onboarding efficiency by authoring comprehensive documentation and access workarounds for development tools for future team members.",
+        "Collaborated within an Agile/Scrum environment, participating in daily stand-ups and sprint planning."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "MC3 Technologies",
+      "position": "Hardware/Electrical Engineer Intern",
+      "website": "",
+      "startDate": "2025-06-01",
+      "endDate": "2025-08-01",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Prototyped a compact tactical underground sensor system for military drone deployment.",
+        "Integrated microcontroller with multiple sensors (vibration, motion, etc.) to develop a functional tennis-ball-sized sensing device.",
+        "Programmed sensor threshold logic through an IDE to filter false positives and trigger alerts only during significant motion or tampering events.",
+        "Developed real-time GUI for live sensor activity and system alerts for monitoring and testing."
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
+      "organization": "Smart Campus Energy Lab",
+      "position": "Dashboard Team Member",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "startDate": "2024-08-01",
+      "endDate": "2024-12-01",
+      "summary": "Collaborated with team to maintain a previously developed Grafana dashboard reading weather data from two deployed weather boxes on campus.",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Researched multiple dashboard programs that would be cost effective and satisfy team's needs.",
+        "Presented monthly updates to the team and advisor to showcase dashboard status."
       ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request"
     }
   ]
 }
