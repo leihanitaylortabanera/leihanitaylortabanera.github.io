@@ -9,7 +9,9 @@ labels:
   - Software Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<div class="text-center p-4">
+  <img width="500px" src="../img/software-engineering-skills.jpg" class="img-thumbnail" >
+</div>
 
 Hello, World (of Software Engineering)!
 
@@ -25,9 +27,6 @@ First off, lets get the most important question out of the way...
 
 ## Leveling Up As An Engineer
 
-
-
-So back to the original premise; why is being one of the club officers so difficult?
 
 And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
 
