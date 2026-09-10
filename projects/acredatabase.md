@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/ACRE_image.jpg
 title: "ACRE Initial Database Implementation"
-date: 2026-08-07
+date: 2026
 published: true
 labels:
   - Databases
