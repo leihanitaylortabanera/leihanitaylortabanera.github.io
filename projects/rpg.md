@@ -10,6 +10,7 @@ labels:
   - RPG
   - Object-Oriented Programming
 summary: "A beta C++ Role-Playing Game (RPG) where you create your character and partake in a trial battle to prove your strength and bravery."
+github: https://github.com/leihanitaylortabanera/ece205-lab14a-RPG-beta-Lei2024
 ---
 
 <img class="img-fluid" src="../img/rpg_description.png">
