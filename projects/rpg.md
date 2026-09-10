@@ -9,19 +9,16 @@ labels:
   - C++
   - RPG
   - Object-Oriented Programming
-summary: ""
+summary: "A beta C++ Role-Playing Game (RPG) where you create your character and partake in a trial battle to prove your strength and bravery."
 ---
 
 <img class="img-fluid" src="../img/rpg_description.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+This project was a beta-stage RPG designed to demonstrate core object-oriented programming (OOP) concepts in software engineering. The program models game entities such as players, enemies, and items) using modular classes and objects. It features typical core RPG mechanics like turn-based combat, character stats management, and state tracking.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+2. What was my role and how much of the work was I responsible for?
+As a solo developer on the project, I worked on designing and implementing core software modules, focusing on class architecture and system interactions. My focused work included establishing the base character class hierarchy, managing dynamic state transitions during gameplay, and implementing object-oriented design patterns. I implemented many classes such as profession classes, a player character class, abilities that each profession had, and much more.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+This experience strengthened my practical understanding of OOP design, specifically leveraging inheritance, polymorphism, and encapsulation to build a maintainable codebase. I gained hands-on experience in managing complex game loops, debugging edge cases in dynamic state tracking, and writing logic that accommodates future feature expansions.
 
-Here is some example code to illustrate Simple Schema use:
 
-{% gist 9defa1fb3f4eb593ba5fa9eacedca960 %}
- 
-Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
