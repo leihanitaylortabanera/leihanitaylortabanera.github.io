@@ -38,7 +38,7 @@ Source: [Stack Overflow](https://stackoverflow.com/questions/80001459/c17-vs-c23
 
 ## How Will This Help Me As A Software Engineer?
 
-Analyzing these examples completely changed how I view asking for help. I learned that a smart question isn't just a cry for a quick fix; it's proof that you’ve already put in the work. By taking the time to research, test things out, and clearly explain exactly where I'm stuck, I can turn a frustrating roadblock into an insightful conversation. I also realized why Stack Overflow strictly closes questions that violate their guidelines—like dumping homework without trying it first. This strictness filters out low-effort posts and highlights the good technical questions that actually need an expert's input. Ultimately, asking smarter questions leads to faster, higher-quality answers that challenge us to learn, expand our knowledge, and see new perspectives on problem-solving.
+Analyzing these examples completely changed how I view asking for help. I learned that a smart question isn't just a cry for a quick fix; it's proof that you’ve already put in the work. By taking the time to research, test things out, and clearly explain exactly where I'm stuck, I can turn a frustrating roadblock into an insightful conversation. I also realized why Stack Overflow strictly closes questions that violate their guidelines (e.g. asking homework questions without attempting the problem). This strictness filters out low-effort posts and highlights the good technical questions that actually need an expert's input. Ultimately, asking smarter questions leads to faster, higher-quality answers that challenge us to learn, expand our knowledge, and see new perspectives on problem-solving.
 
 ## AI Usage
 
