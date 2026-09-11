@@ -28,11 +28,11 @@ Source: [Stack Overflow](https://stackoverflow.com/questions/76677968/extract-du
 
 <img width="400px" class="rounded d-block mx-auto pe-4" src="../img/stackoverflow-good-question-1.png">
 
-Now, let's switch over to an example of a "smart" question, shown in the next image. Right away, the user clearly explains their project and the specific problem they want to solve. They also mention that they’ve tested multiple configurations, pinpointing exactly where the issue originates and under what conditions the code actually works.
+Now, let's switch over to an example of a "smart" question, shown in the image above. Right away, the user clearly explains their project and the specific problem they want to solve. They also mention that they’ve tested multiple configurations, pinpointing exactly where the issue originates and under what conditions the code actually works.
 
 <img width="400px" class="rounded d-block mx-auto pe-4" src="../img/stackoverflow-good-question-2.png">
 
-This next image shows the actual question being asked. The formatting makes it incredibly easy to read because the user provides specific details about their desired outcome. Because the user was clear, concise, and upfront about the methods they already tried, the community's responses were much more detailed and genuinely helpful.
+The next image above shows the actual question being asked. The formatting makes it incredibly easy to read because the user provides specific details about their desired outcome. Because the user was clear, concise, and upfront about the methods they already tried, the community's responses were much more detailed and genuinely helpful.
 
 Source: [Stack Overflow](https://stackoverflow.com/questions/80001459/c17-vs-c23-function-pointer-error-is-this-the-correct-fix)
 
