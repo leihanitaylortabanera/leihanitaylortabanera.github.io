@@ -16,7 +16,7 @@ Don't immediately ask for help the moment something goes wrong. Instead, cultiva
 
 ## "Smart" Question vs. "Not Smart" Question
 
-<img width="400px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="400px" class="rounded float-start pe-4" src="../img/stackoverflow-bad-question.png">
 
 Let's look at an example of a "not smart" Stack Overflow question, shown in the image to the left. First, the user opens by saying, "I have a homework assignment..." When asking for technical help, you shouldn't just post your homework assignments. Those exercises are specifically designed to teach you how to problem-solve.
 
@@ -26,9 +26,9 @@ This question does have a few responses that offer a solution for the user, but 
 
 Source: [Stack Overflow](https://stackoverflow.com/questions/76677968/extract-duplicate-characters-from-a-string)
 
-<img width="400px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="400px" class="rounded float-start pe-4" src="../img/stackoverflow-good-question-1.png">
 
-<img width="400px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="400px" class="rounded float-start pe-4" src="../img/stackoverflow-good-question-2.png">
 
 Now, let's switch over to an example of a "smart" question, shown in the next image. Right away, the user clearly explains their project and the specific problem they want to solve. They also mention that they’ve tested multiple configurations, pinpointing exactly where the issue originates and under what conditions the code actually works.
 
