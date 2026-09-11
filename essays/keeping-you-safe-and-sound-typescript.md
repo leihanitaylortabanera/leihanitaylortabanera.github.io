@@ -7,7 +7,9 @@ date: 2026-09-09
 published: true
 labels:
   - Typescript
+  - Javascript
   - Software Engineering
+  - Athletic Engineering
 ---
 
 ## Here's What I Learned about Typescript
@@ -16,7 +18,7 @@ TypeScript is essentially JavaScript with a built-in safety barrier. By adding s
 
 The most valuable lesson I took away is how TypeScript actively enhances JavaScript by catching mistakes before they happen. Because you explicitly define your types, the compiler immediately throws an error if a value doesn't match expectations. For example, consider the code comparison in the image below.
 
-<img width="300px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="300px" class="rounded float-start pe-4" src="../img/javascript-vs-typescript.png">
 
 In standard JavaScript, there is no safety check: you can initially assign the variable x to a number (5), and later reassign it to a string ("hello") without the program ever complaining. TypeScript, however, immediately throws a type error if you attempt to assign "hello" to x, because it was explicitly declared as a number on the first line. Ultimately, this strictness helps keep your code happy, healthy, and safe.
 
