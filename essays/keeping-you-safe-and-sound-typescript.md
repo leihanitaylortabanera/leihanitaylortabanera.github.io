@@ -22,6 +22,8 @@ The most valuable lesson I took away is how TypeScript actively enhances JavaScr
 
 In standard JavaScript, there is no safety check: you can initially assign the variable x to a number (5), and later reassign it to a string ("hello") without the program ever complaining. TypeScript, however, immediately throws a type error if you attempt to assign "hello" to x, because it was explicitly declared as a number on the first line. Ultimately, this strictness helps keep your code happy, healthy, and safe.
 
+Finally, I learned how much coding with Typescript keeps my work organized and readable. Explicitly declaring types makes it far easier to reference past projects whenever I practice. Ultimately, these clear type annotations allow me to quickly track each function's purpose and expected return values.
+
 ## Racing Against the Clock: Athletic Engineering
 
 Athletic Engineering is a learning method that treats programming like sports training—focusing on speed, repetition, and problem-solving under time constraints. I genuinely enjoyed the WODs where we had to time ourselves to see how efficiently we could write a working solution within a specific timeframe. Alongside the WODs, the practice and real quizzes served as excellent exercises to sharpen my skills and build my proficiency in TypeScript. Overall, I really appreciate this style of learning and look forward to tackling upcoming topics with this same high-energy approach.
