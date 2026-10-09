@@ -30,7 +30,7 @@ Similarly, CSS concepts were approachable, but retaining its extensive catalog o
 Through persistent practice, my confidence in writing core HTML and CSS grew substantially. The figure below showcases an assignment from my software engineering course, featuring a web page designed exclusively with raw HTML and CSS.
 
 <div class="text-center p-4">
-<img width="400px" src="../img/ui-frameworks/raw-html-css-browserhistoy.png" class="img-thumbnail" >
+<img width="600px" src="../img/ui-frameworks/raw-html-css-browserhistoy.png" class="img-thumbnail" >
 </div>
 
 Building upon my foundational understanding of HTML and CSS, transitioning to Bootstrap 5 was a natural progression. Bootstrap's intuitive utility classes allowed me to structure complex, responsive layouts far more efficiently, eliminating the need to write dozens of lines of custom CSS.
@@ -44,7 +44,7 @@ Conversely, the advantages of Bootstrap 5 far outweighed these initial hurdles. 
 Ultimately, incorporating Bootstrap into my workflow was both rewarding and transformative, drastically accelerating my development process while simplifying front-end design. The figure below showcases a project built using Bootstrap 5, in which I designed a responsive clone of a subset from the Flower Knows company website.
 
 <div class="text-center p-4">
-<img width="400px" src="../img/ui-frameworks/bootstrap-flower-knows.png" class="img-thumbnail" >
+<img width="600px" src="../img/ui-frameworks/bootstrap-flower-knows.png" class="img-thumbnail" >
 </div>
 
 ## Overall View on Bootstrap and UI Frameworks
